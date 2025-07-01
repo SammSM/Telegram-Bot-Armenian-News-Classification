@@ -1,8 +1,14 @@
 # Telegram-Bot-Armenian-News-Classification
-A Telegram bot that predicts news category. This bot delivers quick and relevant results directly in Telegram.
+A Telegram bot that predicts Armenian news category. This bot delivers quick and relevant results directly in Telegram.
 
 This bot uses a machine learning model based on Random Forest to automatically predict the category of a given news article. Just send a short news text, and the bot will classify the category.
 
+###!Provided articles should be in Armenian language.
+Categories:
+- Քաղաքական
+- Հասարակական
+- Կրթական
+- Առոջապահական
 ---
 
 ## ⚙️ How It Works
